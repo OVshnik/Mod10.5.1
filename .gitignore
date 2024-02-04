@@ -50,3 +50,12 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+/Mod10.5.1/Tasks/obj/Debug/net7.0
+/Mod10.5.1/Tasks/obj/Release/net7.0
+/Mod10.5.1/Tasks/bin/Debug/net7.0
+/Mod10.5.1/Tasks/obj
+/Mod10.5.1/.vs/Mod10.5.1/FileContentIndex
+/Mod10.5.1/.vs/Mod10.5.1/v17
+/Mod10.5.1/.vs/Mod10.5.1/DesignTimeBuild
+/.vs/Mod10.5.1/v17
+/.vs
